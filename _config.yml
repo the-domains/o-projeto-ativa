@@ -1,0 +1,28 @@
+name: o projeto ativa
+favicon: null
+layout_spectrum: 0.2754747492726892
+typography_spectrum: 0.9006583869922906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7957175783813
+  lightness: 0.9952204425353557
+  saturation: 0.8324954581912607
+  rhythmicContrast: 0.05070826201699674
+purpose: []
