@@ -4,7 +4,7 @@
         <description><![CDATA[projeto de ativação das artes visuais na Bahia]]></description>
         <link>https://thegrid.ai/o-projeto-ativa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 02:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 02:05:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/o-projeto-ativa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://app.thegrid.io/</link>
             <guid isPermaLink="false">69e2f720-f619-4ad7-8e50-9517ea3d75b5</guid>
             <pubDate>Mon, 11 Apr 2016 01:47:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a2bbcf0-88fd-4c77-8c8c-48ac2d5f060b.jpg">]]></description>
+            <link>https://thegrid.ai/o-projeto-ativa/b934020b-5db6-44de-af95-a0742d9abb3e/index.html</link>
+            <guid isPermaLink="false">b934020b-5db6-44de-af95-a0742d9abb3e</guid>
+            <pubDate>Mon, 11 Apr 2016 02:04:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
