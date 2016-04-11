@@ -1,6 +1,6 @@
 name: o projeto ativa
 favicon: null
-layout_spectrum: 0.2754747492726892
+layout_spectrum: 0.8478
 typography_spectrum: 0.39992
 title: projeto de ativação das artes visuais na Bahia
 cta:
@@ -22,7 +22,7 @@ color:
     - '#935533'
     - '#fecf7e'
     - '#c89859'
-  brandStrength: 0.7957175783813
+  brandStrength: 0.75
   lightness: 0.9952204425353557
   saturation: 0.25
   rhythmicContrast: 0.25
