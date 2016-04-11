@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Interessa-nos que o Projeto aglutine cada vez mais colaboradores e agentes interessados e interessantes do meio artístico, cultural e intelectual da Bahia, de outros estados e países.'
-datePublished: '2016-04-11T02:05:07.132Z'
-dateModified: '2016-04-11T02:04:07.518Z'
+datePublished: '2016-04-11T02:17:17.232Z'
+dateModified: '2016-04-11T02:16:59.118Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-interessa-nos-que-o-projeto-aglutine-cada-vez-mais-colaborad.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-interessa-nos-que-o-projeto-aglutine-cada-vez-mais-colaborad.md
-published: true
 url: interessa-nos-que-o-projeto-aglutine-cada-vez-mais-colaborad/index.html
 _type: Article
 
