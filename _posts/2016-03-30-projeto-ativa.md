@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://app.thegrid.io/'
 inLanguage: null
 starred: true
 keywords: []
-description: 'Fortalecer o sistemas das artes visuais a partir de Salvador para ampliar o alcance da produção no cenário local, nacional e internacional.'
-datePublished: '2016-04-11T01:47:20.892Z'
-dateModified: '2016-04-11T01:47:20.186Z'
+description: Google
+datePublished: '2016-04-16T21:06:51.196Z'
+dateModified: '2016-04-16T21:06:31.217Z'
 author: []
 title: projeto ativa
 sourcePath: _posts/2016-03-30-projeto-ativa.md
@@ -23,7 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Fortalecer o sistemas das artes visuais a partir de Salvador para ampliar o alcance da produção no cenário local, nacional e internacional.
+> Fortalecer o sistemas das artes visuais a partir de Salvador para ampliar o alcance da produção no cenário local, nacional e internacional.
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b182f3bc-51ce-473f-9d21-7b600b9a4fc3.png)
 
 Google
